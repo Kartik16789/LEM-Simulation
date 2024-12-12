@@ -13,3 +13,5 @@ REM Activate the virtual environment
 call venv\Scripts\activate
 
 echo Virtual environment created and activated.
+
+python main.py

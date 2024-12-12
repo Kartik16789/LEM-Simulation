@@ -14,3 +14,5 @@ source venv/bin/activate
 pip install -r requirements.txt
 
 echo "Virtual environment setup complete."
+
+python3 main.py
